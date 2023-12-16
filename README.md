@@ -57,3 +57,22 @@ To ensure a smooth collaboration, please follow these guidelines:
 2. Provide any relevant error messages or screenshots.
 
 3. Specify the version of the project in which the issue occurs.
+
+<summary>❓ Asking Questions</summary>
+
+If you have any questions or need clarification:
+
+1. Check the existing issues to see if your question has already been addressed.
+
+2. If not, feel free to open a new issue with your question.
+
+</details>
+
+## Code of Conduct
+
+Please review and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to create a positive and inclusive environment for everyone.
+
+## Thank You!
+
+We appreciate your contribution to our project. Together, let's make it even more awesome! 🚀
+
