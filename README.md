@@ -1,4 +1,4 @@
-# Welcome to [Lonely Client] 👋
+# Welcome to Lonely Client 👋
 
 ## Introduction
 
