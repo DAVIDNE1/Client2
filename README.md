@@ -43,6 +43,7 @@ To ensure a smooth collaboration, please follow these guidelines:
 
 5. Ensure that your branch is up-to-date with the main branch before creating the pull request.
 
+<details>
 <summary>🐛 Bug Reports</summary>
 
 1. Clearly describe the issue, including steps to reproduce.
@@ -51,6 +52,7 @@ To ensure a smooth collaboration, please follow these guidelines:
 
 3. Specify the version of the project in which the issue occurs.
 
+<details>
 <summary>❓ Asking Questions</summary>
 
 If you have any questions or need clarification:
